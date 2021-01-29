@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jersey</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="edit">Edit</string>
+    <string name="player_name_hint">Player name</string>
+    <string name="number">Number</string>
+    <string name="player_number_hint">Player number</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="reset">Reset</string>
+    <string name="confirmation_dialog_message">Reset jersey info?</string>
+    <string name="edit_dialog_title">Update Jersey Info</string>
+    <string name="default_jersey_name">ANDROID</string>
+    <string name="name">Name</string>
+
+</resources>
